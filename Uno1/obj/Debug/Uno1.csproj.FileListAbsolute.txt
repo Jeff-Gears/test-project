@@ -1,0 +1,7 @@
+H:\Uno1\Uno1\bin\Debug\Uno1.exe.config
+H:\Uno1\Uno1\Uno1\bin\Debug\Uno1.exe.config
+H:\Uno1\Uno1\Uno1\bin\Debug\Uno1.exe
+H:\Uno1\Uno1\Uno1\bin\Debug\Uno1.pdb
+H:\Uno1\Uno1\Uno1\obj\Debug\Uno1.csprojResolveAssemblyReference.cache
+H:\Uno1\Uno1\Uno1\obj\Debug\Uno1.exe
+H:\Uno1\Uno1\Uno1\obj\Debug\Uno1.pdb
